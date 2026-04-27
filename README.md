@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year IT student focused on backend development, databases, and data analysis. Passionate about building practical software and data-driven solutions.
+Final-year IT student focused on Software development, databases, and data analysis. Passionate about building practical software and data-driven solutions.
 
 
 ## 🌐 Socials:
