@@ -18,7 +18,7 @@ I am a passionate IT student focused on building robust backend systems and tran
 
 I enjoy solving real-world problems through clean, structured code and thoughtful system design. Whether it's designing a database schema, building a REST API, or crafting an interactive dashboard, I bring a detail-oriented mindset to every project.
 
-I am continuously growing my skill set — currently diving into Python to expand my capabilities in data analysis, automation.
+I am continuously growing my skill set — currently diving into Python to expand my capabilities in data analysis and automation.
 
 ---
 
