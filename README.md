@@ -1,21 +1,55 @@
-# 💫 About Me:
-Final year IT Software Development student passionate about building full stack web applications and uncovering insights through data analysis.<br><br>    📫 Reach me at thobanimjiyakho7@gmail.com<br>
+# Hi, I'm Thobani Mjiyakho 👋
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- 🎓 IT Student
+- 📊 Aspiring Data & Backend Developer
+- 📍 Bloemfontein, South Africa
+
+---
+
+## 🚀 About Me
+
+I am a passionate IT student focused on building robust backend systems and transforming data into meaningful insights. I work with C#, ASP.NET, and SQL to develop reliable, data-driven applications, and I leverage Power BI to visualise and communicate complex information clearly.
+
+I enjoy solving real-world problems through clean, structured code and thoughtful system design. Whether it's designing a database schema, building a REST API, or crafting an interactive dashboard, I bring a detail-oriented mindset to every project.
+
+I am continuously growing my skill set — currently diving into Python to expand my capabilities in data analysis, automation, and AI/ML.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C#
+- SQL
+- Python *(learning)*
+
+**Frameworks & Tools**
+- ASP.NET Core
+- Power BI
+- SQL Server / T-SQL
+- Git & GitHub
+- Visual Studio
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thobani-mjiyakho-a767a7227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thobanimjiyakho7@gmail.com) 
+## 📈 Currently Learning
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Thobani613&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Thobani613&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thobani613&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- Python (Data Analysis & Scripting)
+- Automation
+- REST API design patterns
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thobani613&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## 🤝 Connect With Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thobani613)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thobani-mjiyakho-a767a7227/)
+
+---
+
+*"Data is the new oil — and I'm learning to refine it."*
