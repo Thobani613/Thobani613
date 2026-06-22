@@ -1,56 +1,60 @@
 # Hi, I'm Thobani Mjiyakho 👋
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+`Software Developer | Learning QA / Test Automation`
 
-- 🎓 IT Student
-- 📊 Aspiring Data & Backend Developer
+[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://github.com/Thobani613) [![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg)](https://github.com/Thobani613) [![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)](https://github.com/Thobani613) [![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg)](https://github.com/Thobani613) [![Supabase](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg)](https://github.com/Thobani613) [![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)](https://github.com/Thobani613) [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://github.com/Thobani613) [![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://github.com/Thobani613)
+
+- 💻 IT Student | Final Year, Diploma in Information Technology (Software Development)
+- 📱 Building mobile applications with Flutter & Supabase
+- 🧪 Actively learning QA / Test Automation — focused on API testing with Postman and C#
 - 📍 Bloemfontein, South Africa
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I am a passionate IT student focused on building robust backend systems and transforming data into meaningful insights. I work with C#, ASP.NET, and SQL to develop reliable, data-driven applications, and I leverage Power BI to visualise and communicate complex information clearly.
+I'm a software developer building applications with **Flutter** and **C# / ASP.NET Core**, with **Supabase** as my backend of choice for mobile projects.
 
-I enjoy solving real-world problems through clean, structured code and thoughtful system design. Whether it's designing a database schema, building a REST API, or crafting an interactive dashboard, I bring a detail-oriented mindset to every project.
+I'm currently expanding into **QA and test automation**, with a focus on **API testing**. My learning path starts with **Postman** for manual API testing and is building toward automated testing in **C#**.
 
-I am continuously growing my skill set — currently diving into Python to expand my capabilities in data analysis and automation.
+My goal is to grow into a QA Automation Engineer role — combining the development background I already have with strong testing and automation skills.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 - C#
+- Dart
 - SQL
-- Python *(learning)*
 
-**Frameworks & Tools**
+**Frameworks & Backend**
 - ASP.NET Core
-- Power BI
-- SQL Server / T-SQL
+- Flutter
+- Supabase
+
+**Testing & QA**
+- Postman *(learning)*
+- API Testing & Automation *(learning)*
+
+**Tools**
 - Git & GitHub
+- VS Code
 - Visual Studio
-
-
-## 📈 Currently Learning
-
-- Python (Data Analysis & Scripting)
-- Automation
-- REST API design patterns
-- Data Engineering
+- SQL server Management Studio
 
 ---
 
-## 🤝 Connect With Me
+### 📈 Currently Learning
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thobani613)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thobani-mjiyakho-a767a7227/)
+- API Testing fundamentals with Postman
+- Automated testing in C#
+- QA / Test Automation Engineering
 
 ---
 
-*"Data is the new oil — and I'm learning to refine it."*
+### 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Thobani613-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thobani613)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/thobani-mjiyakho-a767a72)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thobanimjiyakho7@gmail.com)
