@@ -12,14 +12,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-- 💻 IT Student | Final Year, Diploma in Information Technology (Software Development)
-- 📱 Building mobile applications with Flutter & Supabase
-- 🧪 Actively learning QA / Test Automation — focused on API testing with Postman and C#
-- 📍 Bloemfontein, South Africa
+-  IT Student | Final Year, Diploma in Information Technology (Software Development)
+-  Building mobile applications with Flutter & Supabase
+-  Actively learning QA / Test Automation — focused on API testing with Postman and C#
+- Bloemfontein, South Africa
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a software developer building applications with **Flutter** and **C# / ASP.NET Core**, with **Supabase** as my backend of choice for mobile projects.
 
