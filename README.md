@@ -2,7 +2,16 @@
 
 `Software Developer | Learning QA / Test Automation`
 
-[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://github.com/Thobani613) [![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg)](https://github.com/Thobani613) [![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)](https://github.com/Thobani613) [![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg)](https://github.com/Thobani613) [![Supabase](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg)](https://github.com/Thobani613) [![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)](https://github.com/Thobani613) [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://github.com/Thobani613) [![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://github.com/Thobani613)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
 - 💻 IT Student | Final Year, Diploma in Information Technology (Software Development)
 - 📱 Building mobile applications with Flutter & Supabase
@@ -41,7 +50,7 @@ My goal is to grow into a QA Automation Engineer role — combining the developm
 - Git & GitHub
 - VS Code
 - Visual Studio
-- SQL server Management Studio
+- SQL Server Management Studio 22
 
 ---
 
