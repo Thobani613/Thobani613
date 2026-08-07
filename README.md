@@ -1,6 +1,6 @@
 # Hi, I'm Thobani Mjiyakho 👋
 
-`Software Developer | Learning QA / Test Automation`
+`Software Developer | C# · ASP.NET Core · Flutter`
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -8,25 +8,23 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
--  IT Student | Final Year, Diploma in Information Technology (Software Development)
--  Building mobile applications with Flutter & Supabase
--  Actively learning QA / Test Automation — focused on API testing with Postman and C#
-- Bloemfontein, South Africa
+- 💻 Final Year IT Student — Diploma in Software Development
+- 📱 Building mobile apps with Flutter & Supabase
+- ⚙️ Building backend APIs with C# & ASP.NET Core
+- 📍 Bloemfontein, South Africa
 
 ---
 
-###  About Me
+### 🚀 About Me
 
-I'm a software developer building applications with **Flutter** and **C# / ASP.NET Core**, with **Supabase** as my backend of choice for mobile projects.
+I'm a software developer with a focus on **backend development** and **mobile applications**. I build REST APIs using **C# and ASP.NET Core**, and cross-platform mobile apps using **Flutter with Supabase** as the backend.
 
-I'm currently expanding into **QA and test automation**, with a focus on **API testing**. My learning path starts with **Postman** for manual API testing and is building toward automated testing in **C#**.
-
-My goal is to grow into a QA Automation Engineer role — combining the development background I already have with strong testing and automation skills.
+I enjoy working on the logic side of software — designing clean API structures, handling authentication, and building systems that are reliable and well-organised. I'm comfortable working across the full stack but my strongest interest is in backend and application logic.
 
 ---
 
@@ -35,30 +33,33 @@ My goal is to grow into a QA Automation Engineer role — combining the developm
 **Languages**
 - C#
 - Dart
-- SQL
 
 **Frameworks & Backend**
 - ASP.NET Core
 - Flutter
+- Entity Framework Core
 - Supabase
 
-**Testing & QA**
-- Postman *(learning)*
-- API Testing & Automation *(learning)*
-
-**Tools**
+**Database & Tools**
+- SQL Server
 - Git & GitHub
-- VS Code
 - Visual Studio
-- SQL Server Management Studio 22
+- VS Code
 
 ---
 
-### 📈 Currently Learning
+### 📂 Projects
+---
 
-- API Testing fundamentals with Postman
-- Automated testing in C#
-- QA / Test Automation Engineering
+**🎓 Student Assistant Application System**
+A cross-platform mobile app built with Flutter and Supabase. Built as a team project with MVVM architecture — handled backend integration and core app logic.
+`Flutter` `Dart` `Supabase` `MVVM`
+
+---
+
+**🖥️ Student Manager Console**
+A C# console application for managing student records. Built to practice OOP principles and core .NET fundamentals.
+`C#` `.NET` `OOP`
 
 ---
 
