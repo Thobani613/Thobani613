@@ -26,21 +26,6 @@ I'm a software developer with a focus on **backend development** and **mobile ap
 
 I enjoy working on the logic side of software — designing clean API structures, handling authentication, and building systems that are reliable and well-organised. I'm comfortable working across the full stack but my strongest interest is in backend and application logic.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-- C#
-- Dart
-
-**Frameworks & Backend**
-- ASP.NET Core
-- Flutter
-- Entity Framework Core
-- Supabase
-
-
 ### 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Thobani613-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thobani613)
