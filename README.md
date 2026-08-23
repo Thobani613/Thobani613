@@ -40,28 +40,6 @@ I enjoy working on the logic side of software — designing clean API structures
 - Entity Framework Core
 - Supabase
 
-**Database & Tools**
-- SQL Server
-- Git & GitHub
-- Visual Studio
-- VS Code
-
----
-
-### 📂 Projects
----
-
-**🎓 Student Assistant Application System**
-A cross-platform mobile app built with Flutter and Supabase. Built as a team project with MVVM architecture — handled backend integration and core app logic.
-`Flutter` `Dart` `Supabase` `MVVM`
-
----
-
-**🖥️ Student Manager Console**
-A C# console application for managing student records. Built to practice OOP principles and core .NET fundamentals.
-`C#` `.NET` `OOP`
-
----
 
 ### 🤝 Connect With Me
 
