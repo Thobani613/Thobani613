@@ -13,19 +13,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-- 💻 Final Year IT Student — Diploma in Software Development
-- 📱 Building mobile apps with Flutter & Supabase
-- ⚙️ Building backend APIs with C# & ASP.NET Core
-- 📍 Bloemfontein, South Africa
-
----
-
-### 🚀 About Me
-
-I'm a software developer with a focus on **backend development** and **mobile applications**. I build REST APIs using **C# and ASP.NET Core**, and cross-platform mobile apps using **Flutter with Supabase** as the backend.
-
-I enjoy working on the logic side of software — designing clean API structures, handling authentication, and building systems that are reliable and well-organised. I'm comfortable working across the full stack but my strongest interest is in backend and application logic.
-
 ### 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Thobani613-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thobani613)
